@@ -12,7 +12,7 @@ object,
 iframe,
 h1,
 h2,
-h3,
+h3,h
 h4,
 h5,
 h6,
@@ -106,7 +106,7 @@ section {
   display: block;
 }
 body {
-  /* Add background-color declaration here */
+    background-color: black;
 }
 ol,
 ul {
